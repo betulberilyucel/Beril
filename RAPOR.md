@@ -23,14 +23,14 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|5 ve 5|esittir|"a ile b esittir"|
+|2 ve 3|b a'dan büyüktür|"b a'dan buyuktur"|
 
 ## Soru 4: Üç Sayının En Büyüğü
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|2 ve 3 ve 4| | |
 | | | |
 
 ## Soru 5: Not Değerlendirme
