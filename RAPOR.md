@@ -10,14 +10,14 @@ Her soru için en az 2 test yazın.
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
 |5|tektir|"sayiniz tektir"|
-|6|çifttir|"sayiniz cifttir|
+|6|çifttir|"sayiniz cifttir"|
 
 ## Soru 2: Pozitif, Negatif veya Sıfır
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|0|sıfır|"sayi sifira esittir"|
+|5|pozitif|"sayiniz pozitiftir"|
 
 ## Soru 3: İki Sayının Büyüğü
 
