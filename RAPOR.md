@@ -8,8 +8,8 @@ Her soru için en az 2 test yazın.
 ## Soru 1: Tek mi, Çift mi?
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
-|5|---|---|
-| | | |
+|---|---|---|
+|5| | |
 | | | |
 
 ## Soru 2: Pozitif, Negatif veya Sıfır
