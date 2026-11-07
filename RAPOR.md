@@ -44,8 +44,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|2026 | | |
-| | | |
+|2026 |artık yıl değildir |"yiliniz artik yil degildir"|
+|2020|artık yıl|"yiliniz artik yildir" |
 
 ## Soru 7: Bölünebilme Kontrolü
 
