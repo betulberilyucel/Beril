@@ -51,21 +51,21 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|15|3e ve 5e tam bölünür|"sayi 3'e tam bolunur"|
+|21|3e bölünür |"sayi 3'e tam bolunur"|
 
 ## Soru 8: Basit Hesap Makinesi
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|5,+,2|7|"7"|
+|5,*,3|15|"15"|
 
 ## Soru 9: Üçgen Türü Belirleme
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|3,4,5| | |
 | | | |
 
 ## Soru 10: Haftanın Günü
