@@ -30,7 +30,7 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|2 ve 3 ve 4| | |
+|2 ve 3 ve 4|4 en büyüktür| |
 | | | |
 
 ## Soru 5: Not Değerlendirme
