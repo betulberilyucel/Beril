@@ -5,13 +5,13 @@ public class Soru09_UcgenTuru {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("1. kenari gir");
-        int kenar1=scanner.nextInt();
-        System.out.println("2. kenari gir");
-        int kenar2=scanner.nextInt();
-        System.out.println("3. kenari gir");
-        int kenar3=scanner.nextInt();
-        if(kenar1+kenar2>kenar3 && kenar1+kenar3>kenar2 && kenar2+kenar3>kenar1){
+        System.out.println("a kenari gir");
+        int a=scanner.nextInt();
+        System.out.println("b kenari gir");
+        int b=scanner.nextInt();
+        System.out.println("c kenari gir");
+        int c=scanner.nextInt();
+        if(a+b>c && a+c>b && b+c>a){
             if (a == b && b == c ) {
                 System.out.println("eskenar ucgen");
             }
