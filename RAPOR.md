@@ -9,8 +9,8 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|5| | |
-| | | |
+|5|tektir|"sayiniz tektir"|
+|6|çifttir|"sayiniz cifttir|
 
 ## Soru 2: Pozitif, Negatif veya Sıfır
 
