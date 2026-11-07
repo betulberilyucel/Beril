@@ -19,16 +19,6 @@ public class Soru07_Bolunebilme {
         else{
             System.out.println("sayi 3'e ve 5'e tam bolunemez");
         }
-    
-            
-
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (geçersiz giriş / sınır durumları)
-
-        // TODO: Karar yapısını yazın
-
-        // TODO: Sonucu ekrana yazdırın
 
         scanner.close();
     }
