@@ -65,12 +65,12 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|3,4,5| | |
-| | | |
+|3,4,5|çeşitkenar üçgen|"cesitkenar ucgen"|
+|1,2,3|üçgen oluşamaz|"ucgen olusamaz" |
 
 ## Soru 10: Haftanın Günü
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|2|salı |"sali"|
+|5|cuma|"cuma"|
