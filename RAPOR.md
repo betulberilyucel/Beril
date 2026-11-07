@@ -30,21 +30,21 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-|2 ve 3 ve 4|4 en büyüktür| |
-| | | |
+|2 ve 3 ve 4|4 en büyüktür|"c en buyuktur" |
+|5 ve 5 ve 2|a ile b en büyüktür|"a ile b esit ve en buyuktur" |
 
 ## Soru 5: Not Değerlendirme
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|55|CC|"CC" |
+|90|AA|"AA" |
 
 ## Soru 6: Artık Yıl Kontrolü
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|2026 | | |
 | | | |
 
 ## Soru 7: Bölünebilme Kontrolü
